@@ -21,3 +21,5 @@ Anyone may opt to join into the Collaborative as an active Collaborator at any t
 The Collaborative is inteded to be a light commiment opportunity. Collaborators can commit themselves as much or as little as they like to projects the Collaborative is managing.
 
 See [Collaborators](./collaborators.md) for the list of currently active Collaborators
+  
+Any questions can be directed towards Brian Towne (BJTowne9@gmail.com)
